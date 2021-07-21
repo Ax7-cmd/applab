@@ -41,10 +41,10 @@ $(document).ready(function () {
         if($(this).attr('data-selected') != $(this).val()){
             switch ($(this).val()) {
                 case 'id':
-                    window.location.replace("/id");
+                    window.location.replace("https://ax7-cmd.github.io/applab/id");
                     break;
                 case 'cn':
-                    window.location.replace("/cn");
+                    window.location.replace("https://ax7-cmd.github.io/applab/id");
                     break;
 
                 default:

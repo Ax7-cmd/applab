@@ -44,7 +44,7 @@ $(document).ready(function () {
                     window.location.replace("https://ax7-cmd.github.io/applab/id");
                     break;
                 case 'cn':
-                    window.location.replace("https://ax7-cmd.github.io/applab/id");
+                    window.location.replace("https://ax7-cmd.github.io/applab/cn");
                     break;
 
                 default:

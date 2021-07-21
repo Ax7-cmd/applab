@@ -48,7 +48,7 @@ $(document).ready(function () {
                     break;
 
                 default:
-                    window.location.replace("/");
+                    window.location.replace("https://ax7-cmd.github.io/applab");
                     break;
             }
         }
